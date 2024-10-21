@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         protected String doInBackground(String... strings) {
             try{
                 Thread.sleep(5000);
-                String userValido = "Chicopancho";
+                String userValido = "Carlos";
                 String passValido = "pancho123";
                 String userInput = strings[0];
                 String passInput = strings[1];
